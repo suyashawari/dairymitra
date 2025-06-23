@@ -245,7 +245,7 @@ Watch a walkthrough of the Dairy Mitra application and its features:
 
 [Watch Dairy Mitra Demo on YouTube](https://youtu.be/fZ_6oslhHZ8)
 
-*(Replace `https://www.youtube.com/watch?v=YOUR_PROJECT_VIDEO_ID` with the actual link to your project's demo video.)*
+*(Replace `https://youtu.be/fZ_6oslhHZ8?si=Wt04jC0lU0xzasj2` with the actual link to your project's demo video.)*
 
 ---
 
