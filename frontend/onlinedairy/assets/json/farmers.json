@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "John Farmer",
+    "email": "farmer@gmail.com",
+    "phoneNumber": "+1234567890",
+    "address": "123 Farm Road, Countryside",
+    "password": "farmer123",
+    "role": "ROLE_FARMER",
+    "bankDetails": {
+      "accountHolder": "John Farmer",
+      "accountNumber": "123456789012",
+      "ifscCode": "FARM123456"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+ [
+    {
+      "id": 6,
+      "name": "Sarah Worker",
+      "email": "sarah.worker@company.com",
+      "phoneNumber": "+1666777888",
+      "address": "123 Office Plaza, Citytown",
+      "password": "employee123",
+      "role": "ROLE_EMPLOYEE",
+      "bankDetails": {
+        "accountHolder": "Sarah Worker",
+        "accountNumber": "112233445566",
+        "ifscCode": "EMPL123456"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Mike Staff",
+      "email": "mike.staff@company.com",
+      "phoneNumber": "+1777888999",
+      "address": "456 Corporate Lane, Businesstown",
+      "password": "staff456",
+      "role": "ROLE_EMPLOYEE",
+      "bankDetails": {
+        "accountHolder": "Mike Staff",
+        "accountNumber": "223344556677",
+        "ifscCode": "STAF654321"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Emily Associate",
+      "email": "emily.associate@company.com",
+      "phoneNumber": "+1888999000",
+      "address": "789 Work Street, Officetown",
+      "password": "associate789",
+      "role": "ROLE_EMPLOYEE",
+      "bankDetails": {
+        "accountHolder": "Emily Associate",
+        "accountNumber": "334455667788",
+        "ifscCode": "ASSO987654"
+      }
+    },
+    {
+      "id": 9,
+      "name": "David Clerk",
+      "email": "david.clerk@company.com",
+      "phoneNumber": "+1999000111",
+      "address": "321 Desk Road, Workville",
+      "password": "clerk321",
+      "role": "ROLE_EMPLOYEE",
+      "bankDetails": {
+        "accountHolder": "David Clerk",
+        "accountNumber": "445566778899",
+        "ifscCode": "CLER321654"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Lisa Executive",
+      "email": "lisa.exec@company.com",
+      "phoneNumber": "+1222111333",
+      "address": "654 Boardroom Lane, Corporation City",
+      "password": "exec654",
+      "role": "ROLE_EMPLOYEE",
+      "bankDetails": {
+        "accountHolder": "Lisa Executive",
+        "accountNumber": "556677889900",
+        "ifscCode": "EXEC789012"
+      }
+    }
+  ]

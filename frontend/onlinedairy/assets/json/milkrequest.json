@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "date": "2025-03-28T08:30:00Z",
+    "liters": 12.5,
+    "fatPercentage": 3.8,
+    "proteinPercentage": 3.2,
+    "waterContent": 85,
+    "pricePerLiter": 50,
+    "totalPrice": 625,
+    "paymentMethod": "cash",
+    "farmer": {
+      "id": 1,
+      "name": "John Farmer",
+      "email": "farmer@gmail.com",
+      "phoneNumber": "+1234567890",
+      "address": "123 Farm Road, Countryside",
+      "password": "farmer123",
+      "role": "ROLE_FARMER",
+      "bankDetails": {
+        "accountHolder": "John Farmer",
+        "accountNumber": "123456789012",
+        "ifscCode": "FARM123456"
+      }
+    },
+    "employee": "Bhavesh"
+  },
+  {
+    "id": 2,
+    "date": "2025-03-29T07:15:00Z",
+    "liters": 15.0,
+    "fatPercentage": 4.0,
+    "proteinPercentage": 3.5,
+    "waterContent": 83,
+    "pricePerLiter": 52,
+    "totalPrice": 780,
+    "paymentMethod": "online",
+    "farmer": {
+      "id": 1,
+      "name": "John Farmer",
+      "email": "farmer@gmail.com",
+      "phoneNumber": "+1234567890",
+      "address": "123 Farm Road, Countryside",
+      "password": "farmer123",
+      "role": "ROLE_FARMER",
+      "bankDetails": {
+        "accountHolder": "John Farmer",
+        "accountNumber": "123456789012",
+        "ifscCode": "FARM123456"
+      }
+    },
+    "employee": "Amit"
+  }
+]

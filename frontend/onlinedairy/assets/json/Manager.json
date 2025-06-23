@@ -1,0 +1,72 @@
+[
+  {
+    "id": 11,
+    "name": "Robert Supervisor",
+    "email": "robert.manager@company.com",
+    "phoneNumber": "+1333444555",
+    "address": "123 Management Tower, Headquarter City",
+    "password": "manager123",
+    "role": "ROLE_MANAGER",
+    "bankDetails": {
+      "accountHolder": "Robert Supervisor",
+      "accountNumber": "667788990011",
+      "ifscCode": "MNGT123456"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Karen Director",
+    "email": "karen.director@company.com",
+    "phoneNumber": "+1444555666",
+    "address": "456 Executive Avenue, HQ Town",
+    "password": "director456",
+    "role": "ROLE_MANAGER",
+    "bankDetails": {
+      "accountHolder": "Karen Director",
+      "accountNumber": "778899001122",
+      "ifscCode": "DIRC654321"
+    }
+  },
+  {
+    "id": 13,
+    "name": "James Head",
+    "email": "james.head@company.com",
+    "phoneNumber": "+1555666777",
+    "address": "789 Leadership Road, Main Office",
+    "password": "head789",
+    "role": "ROLE_MANAGER",
+    "bankDetails": {
+      "accountHolder": "James Head",
+      "accountNumber": "889900112233",
+      "ifscCode": "HEAD987654"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Laura Chief",
+    "email": "laura.chief@company.com",
+    "phoneNumber": "+1666777888",
+    "address": "321 Boss Street, Central Office",
+    "password": "chief321",
+    "role": "ROLE_MANAGER",
+    "bankDetails": {
+      "accountHolder": "Laura Chief",
+      "accountNumber": "990011223344",
+      "ifscCode": "CHIF321654"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Paul Admin",
+    "email": "paul.admin@company.com",
+    "phoneNumber": "+1777888999",
+    "address": "654 Admin Lane, Principal City",
+    "password": "admin654",
+    "role": "ROLE_MANAGER",
+    "bankDetails": {
+      "accountHolder": "Paul Admin",
+      "accountNumber": "001122334455",
+      "ifscCode": "ADMN789012"
+    }
+  }
+]
